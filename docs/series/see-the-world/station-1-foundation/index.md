@@ -5,13 +5,13 @@
 ## 本站进度
 
 ```text
-▓▓▓░░░ 3 / 6
+▓▓▓▓░░ 4 / 6
 ```
 
 ## 总系列进度
 
 ```text
-▓▓▓░░░░░░░░░░░░░░░░░ 3 / 38
+▓▓▓▓░░░░░░░░░░░░░░░░ 4 / 38
 ```
 
 ## 文章
@@ -19,4 +19,4 @@
 1. [经济学不是教你赚钱的](/series/see-the-world/station-1-foundation/01-economics-not-about-money)
 2. [为什么工资涨了还是觉得不够花](/series/see-the-world/station-1-foundation/02-why-always-feel-poor)
 3. [周末刷剧的代价，比你想的大多了](/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend)
-
+4. [第三杯奶茶，真的没那么好喝了](/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea)
