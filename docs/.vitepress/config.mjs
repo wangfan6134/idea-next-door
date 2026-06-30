@@ -18,17 +18,18 @@ export default defineConfig({
           items: [
             { text: '文章首页', link: '/articles/' },
             {
-              text: '38篇看懂世界 · 4/38',
+              text: '38篇看懂世界 · 5/38',
               collapsed: false,
               items: [
                 {
-                  text: '第一站：地基 · 4/6',
+                  text: '第一站：地基 · 5/6',
                   collapsed: false,
                   items: [
                     { text: '1. 经济学不是教你赚钱的', link: '/series/see-the-world/station-1-foundation/01-economics-not-about-money' },
                     { text: '2. 为什么工资涨了还是觉得不够花', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
                     { text: '3. 周末刷剧的代价，比你想的大多了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
-                    { text: '4. 第三杯奶茶，真的没那么好喝了', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' }
+                    { text: '4. 第三杯奶茶，真的没那么好喝了', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
+                    { text: '5. 抢不到的票，为什么永远在你付钱之前就没了', link: '/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket' }
                   ]
                 }
               ]
@@ -38,17 +39,18 @@ export default defineConfig({
       ],
       '/series/': [
         {
-          text: '38篇看懂世界 · 4/38',
+          text: '38篇看懂世界 · 5/38',
           collapsed: false,
           items: [
             {
-              text: '第一站：地基 · 4/6',
+              text: '第一站：地基 · 5/6',
               collapsed: false,
               items: [
                 { text: '1. 经济学不是教你赚钱的', link: '/series/see-the-world/station-1-foundation/01-economics-not-about-money' },
                 { text: '2. 为什么工资涨了还是觉得不够花', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
                 { text: '3. 周末刷剧的代价，比你想的大多了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
-                { text: '4. 第三杯奶茶，真的没那么好喝了', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' }
+                { text: '4. 第三杯奶茶，真的没那么好喝了', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
+                { text: '5. 抢不到的票，为什么永远在你付钱之前就没了', link: '/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket' }
               ]
             }
           ]
