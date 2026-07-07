@@ -12,16 +12,16 @@
 38篇看懂世界
 └─ 第一站：地基 5/6
    ├─ 1. 经济学不是教你赚钱的
-   ├─ 2. 为什么工资涨了还是觉得不够花
-   ├─ 3. 周末刷剧的代价，比你想的大多了
-   ├─ 4. 第三杯奶茶，真的没那么好喝了
+   ├─ 2. 为什么你总觉得自己穷
+   ├─ 3. 刷剧还是加班？选错亏大了
+   ├─ 4. 第三杯奶茶最难喝
    └─ 5. 演唱会门票凭啥这么贵
 ```
 
 ### 第一站：地基
 
 - [1. 经济学不是教你赚钱的](/series/see-the-world/station-1-foundation/01-economics-not-about-money)
-- [2. 为什么工资涨了还是觉得不够花](/series/see-the-world/station-1-foundation/02-why-always-feel-poor)
-- [3. 周末刷剧的代价，比你想的大多了](/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend)
-- [4. 第三杯奶茶，真的没那么好喝了](/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea)
+- [2. 为什么你总觉得自己穷](/series/see-the-world/station-1-foundation/02-why-always-feel-poor)
+- [3. 刷剧还是加班？选错亏大了](/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend)
+- [4. 第三杯奶茶最难喝](/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea)
 - [5. 演唱会门票凭啥这么贵](/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket)

@@ -26,9 +26,9 @@ export default defineConfig({
                   collapsed: false,
                   items: [
                     { text: '1. 经济学不是教你赚钱的', link: '/series/see-the-world/station-1-foundation/01-economics-not-about-money' },
-                    { text: '2. 为什么工资涨了还是觉得不够花', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
-                    { text: '3. 周末刷剧的代价，比你想的大多了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
-                    { text: '4. 第三杯奶茶，真的没那么好喝了', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
+                    { text: '2. 为什么你总觉得自己穷', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
+                    { text: '3. 刷剧还是加班？选错亏大了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
+                    { text: '4. 第三杯奶茶最难喝', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
                     { text: '5. 演唱会门票凭啥这么贵', link: '/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket' }
                   ]
                 }
@@ -47,9 +47,9 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: '1. 经济学不是教你赚钱的', link: '/series/see-the-world/station-1-foundation/01-economics-not-about-money' },
-                { text: '2. 为什么工资涨了还是觉得不够花', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
-                { text: '3. 周末刷剧的代价，比你想的大多了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
-                { text: '4. 第三杯奶茶，真的没那么好喝了', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
+                { text: '2. 为什么你总觉得自己穷', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
+                { text: '3. 刷剧还是加班？选错亏大了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
+                { text: '4. 第三杯奶茶最难喝', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
                 { text: '5. 演唱会门票凭啥这么贵', link: '/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket' }
               ]
             }
