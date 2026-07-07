@@ -16,9 +16,9 @@
 
 ## 文章
 
-1. [为什么喜茶一直在涨价](/series/see-the-world/station-3-business-view/15-heytea-price-rise)
-2. [为什么套餐比你单点便宜](/series/see-the-world/station-3-business-view/16-bundles-cheaper)
+1. [喜茶从19涨到32你还在买](/series/see-the-world/station-3-business-view/15-heytea-price-rise)
+2. [套餐省了10块你多花了20](/series/see-the-world/station-3-business-view/16-bundles-cheaper)
 3. [为什么你买机票总比别人贵](/series/see-the-world/station-3-business-view/17-flight-price-discrimination)
-4. [为什么网红店永远在排队](/series/see-the-world/station-3-business-view/18-viral-store-queue)
-5. [为什么拼多多能那么便宜](/series/see-the-world/station-3-business-view/19-pinduoduo-cheap)
-6. [大品牌为什么愿意让你退货](/series/see-the-world/station-3-business-view/20-brand-return-policy)
+4. [排了40分钟喝到的奶茶也就那样](/series/see-the-world/station-3-business-view/18-viral-store-queue)
+5. [同样的垃圾袋淘宝12.9拼多多4.9](/series/see-the-world/station-3-business-view/19-pinduoduo-cheap)
+6. [优衣库让你穿一天再退不怕亏吗](/series/see-the-world/station-3-business-view/20-brand-return-policy)

@@ -18,7 +18,7 @@
 
 1. [经济学不是教你赚钱的](/series/see-the-world/station-1-foundation/01-economics-not-about-money)
 2. [为什么你总觉得自己穷](/series/see-the-world/station-1-foundation/02-why-always-feel-poor)
-3. [刷剧还是加班？选错亏大了](/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend)
+3. [刷剧还是加班选错亏大了](/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend)
 4. [第三杯奶茶最难喝](/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea)
 5. [演唱会门票凭啥这么贵](/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket)
-6. [人和人为什么要交易](/series/see-the-world/station-1-foundation/06-why-people-trade)
+6. [你做饭我洗碗这不是爱情是经济学](/series/see-the-world/station-1-foundation/06-why-people-trade)

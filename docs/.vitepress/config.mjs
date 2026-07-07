@@ -27,36 +27,36 @@ export default defineConfig({
                   items: [
                     { text: '1. 经济学不是教你赚钱的', link: '/series/see-the-world/station-1-foundation/01-economics-not-about-money' },
                     { text: '2. 为什么你总觉得自己穷', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
-                    { text: '3. 刷剧还是加班？选错亏大了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
+                    { text: '3. 刷剧还是加班选错亏大了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
                     { text: '4. 第三杯奶茶最难喝', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
                     { text: '5. 演唱会门票凭啥这么贵', link: '/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket' },
-                    { text: '6. 人和人为什么要交易', link: '/series/see-the-world/station-1-foundation/06-why-people-trade' }
+                    { text: '6. 你做饭我洗碗这不是爱情是经济学', link: '/series/see-the-world/station-1-foundation/06-why-people-trade' }
                   ]
                 },
                 {
                   text: '第二站：你的选择 · 8/8',
                   collapsed: true,
                   items: [
-                    { text: '7. 买了不穿的衣服为什么舍不得扔', link: '/series/see-the-world/station-2-your-choice/07-sunk-cost-clothes' },
+                    { text: '7. 衣柜里1200的大衣吊牌都没拆', link: '/series/see-the-world/station-2-your-choice/07-sunk-cost-clothes' },
                     { text: '8. 花300吃饭不心疼30块运费心疼死', link: '/series/see-the-world/station-2-your-choice/08-mental-accounting-delivery-fee' },
-                    { text: '9. 为什么打折让你控制不住', link: '/series/see-the-world/station-2-your-choice/09-discount-control' },
+                    { text: '9. 原价1999现价399你试都没试就买了', link: '/series/see-the-world/station-2-your-choice/09-discount-control' },
                     { text: '10. 闺蜜买了你也想买不是你的错', link: '/series/see-the-world/station-2-your-choice/10-herd-effect-friends-buy' },
                     { text: '11. 失去100块比捡到100块更痛', link: '/series/see-the-world/station-2-your-choice/11-loss-aversion' },
-                    { text: '12. 要不要办健身年卡', link: '/series/see-the-world/station-2-your-choice/12-gym-membership' },
+                    { text: '12. 办了3000的年卡去了三次单次1000块', link: '/series/see-the-world/station-2-your-choice/12-gym-membership' },
                     { text: '13. 免费的才是最贵的', link: '/series/see-the-world/station-2-your-choice/13-free-is-expensive' },
-                    { text: '14. 为什么直播间里你更容易下单', link: '/series/see-the-world/station-2-your-choice/14-livestream-shopping' }
+                    { text: '14. 主播喊最后50单你的大脑关机了', link: '/series/see-the-world/station-2-your-choice/14-livestream-shopping' }
                   ]
                 },
                 {
                   text: '第三站：商家视角 · 6/6',
                   collapsed: true,
                   items: [
-                    { text: '15. 为什么喜茶一直在涨价', link: '/series/see-the-world/station-3-business-view/15-heytea-price-rise' },
-                    { text: '16. 为什么套餐比你单点便宜', link: '/series/see-the-world/station-3-business-view/16-bundles-cheaper' },
+                    { text: '15. 喜茶从19涨到32你还在买', link: '/series/see-the-world/station-3-business-view/15-heytea-price-rise' },
+                    { text: '16. 套餐省了10块你多花了20', link: '/series/see-the-world/station-3-business-view/16-bundles-cheaper' },
                     { text: '17. 为什么你买机票总比别人贵', link: '/series/see-the-world/station-3-business-view/17-flight-price-discrimination' },
-                    { text: '18. 为什么网红店永远在排队', link: '/series/see-the-world/station-3-business-view/18-viral-store-queue' },
-                    { text: '19. 为什么拼多多能那么便宜', link: '/series/see-the-world/station-3-business-view/19-pinduoduo-cheap' },
-                    { text: '20. 大品牌为什么愿意让你退货', link: '/series/see-the-world/station-3-business-view/20-brand-return-policy' }
+                    { text: '18. 排了40分钟喝到的奶茶也就那样', link: '/series/see-the-world/station-3-business-view/18-viral-store-queue' },
+                    { text: '19. 同样的垃圾袋淘宝12.9拼多多4.9', link: '/series/see-the-world/station-3-business-view/19-pinduoduo-cheap' },
+                    { text: '20. 优衣库让你穿一天再退不怕亏吗', link: '/series/see-the-world/station-3-business-view/20-brand-return-policy' }
                   ]
                 },
                 {
@@ -76,11 +76,11 @@ export default defineConfig({
                   collapsed: true,
                   items: [
                     { text: '27. 邻居装修吵到你该赔吗', link: '/series/see-the-world/station-5-world-breaks/27-neighbor-renovation-externality' },
-                    { text: '28. 为什么二手车市场全是坑', link: '/series/see-the-world/station-5-world-breaks/28-used-car-market' },
-                    { text: '29. 为什么路灯不收你钱', link: '/series/see-the-world/station-5-world-breaks/29-streetlights-public-goods' },
+                    { text: '28. 二手车老板说美女一手车两周后发动机灯亮了', link: '/series/see-the-world/station-5-world-breaks/28-used-car-market' },
+                    { text: '29. 路灯不收你钱因为没人收得上来', link: '/series/see-the-world/station-5-world-breaks/29-streetlights-public-goods' },
                     { text: '30. 同事摸鱼你加班公平吗', link: '/series/see-the-world/station-5-world-breaks/30-free-rider-colleague' },
-                    { text: '31. 为什么大家都在等别人先降价', link: '/series/see-the-world/station-5-world-breaks/31-price-war-waiting' },
-                    { text: '32. 政府什么时候该出手', link: '/series/see-the-world/station-5-world-breaks/32-government-intervention' }
+                    { text: '31. 三家奶茶店家家不想降价家家在降', link: '/series/see-the-world/station-5-world-breaks/31-price-war-waiting' },
+                    { text: '32. 化工厂建在你家旁边你找谁说理', link: '/series/see-the-world/station-5-world-breaks/32-government-intervention' }
                   ]
                 },
                 {
@@ -89,10 +89,10 @@ export default defineConfig({
                   items: [
                     { text: '33. 面试谈薪资的正确姿势', link: '/series/see-the-world/station-6-toolbox/33-salary-negotiation' },
                     { text: '34. 买房还是租房算笔账', link: '/series/see-the-world/station-6-toolbox/34-buy-or-rent' },
-                    { text: '35. 要不要搞副业', link: '/series/see-the-world/station-6-toolbox/35-side-hustle' },
+                    { text: '35. 时薪500的律师跑网约车亏不亏', link: '/series/see-the-world/station-6-toolbox/35-side-hustle' },
                     { text: '36. 消费降级不是少花钱那么简单', link: '/series/see-the-world/station-6-toolbox/36-consumption-downgrade' },
-                    { text: '37. 你也能看懂经济新闻了', link: '/series/see-the-world/station-6-toolbox/37-read-economic-news' },
-                    { text: '38. 你的经济学工具箱总复习', link: '/series/see-the-world/station-6-toolbox/38-economics-toolbox-review' }
+                    { text: '37. 央行降准0.5个百分点你终于知道啥意思了', link: '/series/see-the-world/station-6-toolbox/37-read-economic-news' },
+                    { text: '38. 38篇走完你脑子里的世界变了', link: '/series/see-the-world/station-6-toolbox/38-economics-toolbox-review' }
                   ]
                 }
               ]
@@ -111,36 +111,36 @@ export default defineConfig({
               items: [
                 { text: '1. 经济学不是教你赚钱的', link: '/series/see-the-world/station-1-foundation/01-economics-not-about-money' },
                 { text: '2. 为什么你总觉得自己穷', link: '/series/see-the-world/station-1-foundation/02-why-always-feel-poor' },
-                { text: '3. 刷剧还是加班？选错亏大了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
+                { text: '3. 刷剧还是加班选错亏大了', link: '/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend' },
                 { text: '4. 第三杯奶茶最难喝', link: '/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea' },
                 { text: '5. 演唱会门票凭啥这么贵', link: '/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket' },
-                { text: '6. 人和人为什么要交易', link: '/series/see-the-world/station-1-foundation/06-why-people-trade' }
+                { text: '6. 你做饭我洗碗这不是爱情是经济学', link: '/series/see-the-world/station-1-foundation/06-why-people-trade' }
               ]
             },
             {
               text: '第二站：你的选择 · 8/8',
               collapsed: true,
               items: [
-                { text: '7. 买了不穿的衣服为什么舍不得扔', link: '/series/see-the-world/station-2-your-choice/07-sunk-cost-clothes' },
+                { text: '7. 衣柜里1200的大衣吊牌都没拆', link: '/series/see-the-world/station-2-your-choice/07-sunk-cost-clothes' },
                 { text: '8. 花300吃饭不心疼30块运费心疼死', link: '/series/see-the-world/station-2-your-choice/08-mental-accounting-delivery-fee' },
-                { text: '9. 为什么打折让你控制不住', link: '/series/see-the-world/station-2-your-choice/09-discount-control' },
+                { text: '9. 原价1999现价399你试都没试就买了', link: '/series/see-the-world/station-2-your-choice/09-discount-control' },
                 { text: '10. 闺蜜买了你也想买不是你的错', link: '/series/see-the-world/station-2-your-choice/10-herd-effect-friends-buy' },
                 { text: '11. 失去100块比捡到100块更痛', link: '/series/see-the-world/station-2-your-choice/11-loss-aversion' },
-                { text: '12. 要不要办健身年卡', link: '/series/see-the-world/station-2-your-choice/12-gym-membership' },
+                { text: '12. 办了3000的年卡去了三次单次1000块', link: '/series/see-the-world/station-2-your-choice/12-gym-membership' },
                 { text: '13. 免费的才是最贵的', link: '/series/see-the-world/station-2-your-choice/13-free-is-expensive' },
-                { text: '14. 为什么直播间里你更容易下单', link: '/series/see-the-world/station-2-your-choice/14-livestream-shopping' }
+                { text: '14. 主播喊最后50单你的大脑关机了', link: '/series/see-the-world/station-2-your-choice/14-livestream-shopping' }
               ]
             },
             {
               text: '第三站：商家视角 · 6/6',
               collapsed: true,
               items: [
-                { text: '15. 为什么喜茶一直在涨价', link: '/series/see-the-world/station-3-business-view/15-heytea-price-rise' },
-                { text: '16. 为什么套餐比你单点便宜', link: '/series/see-the-world/station-3-business-view/16-bundles-cheaper' },
+                { text: '15. 喜茶从19涨到32你还在买', link: '/series/see-the-world/station-3-business-view/15-heytea-price-rise' },
+                { text: '16. 套餐省了10块你多花了20', link: '/series/see-the-world/station-3-business-view/16-bundles-cheaper' },
                 { text: '17. 为什么你买机票总比别人贵', link: '/series/see-the-world/station-3-business-view/17-flight-price-discrimination' },
-                { text: '18. 为什么网红店永远在排队', link: '/series/see-the-world/station-3-business-view/18-viral-store-queue' },
-                { text: '19. 为什么拼多多能那么便宜', link: '/series/see-the-world/station-3-business-view/19-pinduoduo-cheap' },
-                { text: '20. 大品牌为什么愿意让你退货', link: '/series/see-the-world/station-3-business-view/20-brand-return-policy' }
+                { text: '18. 排了40分钟喝到的奶茶也就那样', link: '/series/see-the-world/station-3-business-view/18-viral-store-queue' },
+                { text: '19. 同样的垃圾袋淘宝12.9拼多多4.9', link: '/series/see-the-world/station-3-business-view/19-pinduoduo-cheap' },
+                { text: '20. 优衣库让你穿一天再退不怕亏吗', link: '/series/see-the-world/station-3-business-view/20-brand-return-policy' }
               ]
             },
             {
@@ -160,11 +160,11 @@ export default defineConfig({
               collapsed: true,
               items: [
                 { text: '27. 邻居装修吵到你该赔吗', link: '/series/see-the-world/station-5-world-breaks/27-neighbor-renovation-externality' },
-                { text: '28. 为什么二手车市场全是坑', link: '/series/see-the-world/station-5-world-breaks/28-used-car-market' },
-                { text: '29. 为什么路灯不收你钱', link: '/series/see-the-world/station-5-world-breaks/29-streetlights-public-goods' },
+                { text: '28. 二手车老板说美女一手车两周后发动机灯亮了', link: '/series/see-the-world/station-5-world-breaks/28-used-car-market' },
+                { text: '29. 路灯不收你钱因为没人收得上来', link: '/series/see-the-world/station-5-world-breaks/29-streetlights-public-goods' },
                 { text: '30. 同事摸鱼你加班公平吗', link: '/series/see-the-world/station-5-world-breaks/30-free-rider-colleague' },
-                { text: '31. 为什么大家都在等别人先降价', link: '/series/see-the-world/station-5-world-breaks/31-price-war-waiting' },
-                { text: '32. 政府什么时候该出手', link: '/series/see-the-world/station-5-world-breaks/32-government-intervention' }
+                { text: '31. 三家奶茶店家家不想降价家家在降', link: '/series/see-the-world/station-5-world-breaks/31-price-war-waiting' },
+                { text: '32. 化工厂建在你家旁边你找谁说理', link: '/series/see-the-world/station-5-world-breaks/32-government-intervention' }
               ]
             },
             {
@@ -173,10 +173,10 @@ export default defineConfig({
               items: [
                 { text: '33. 面试谈薪资的正确姿势', link: '/series/see-the-world/station-6-toolbox/33-salary-negotiation' },
                 { text: '34. 买房还是租房算笔账', link: '/series/see-the-world/station-6-toolbox/34-buy-or-rent' },
-                { text: '35. 要不要搞副业', link: '/series/see-the-world/station-6-toolbox/35-side-hustle' },
+                { text: '35. 时薪500的律师跑网约车亏不亏', link: '/series/see-the-world/station-6-toolbox/35-side-hustle' },
                 { text: '36. 消费降级不是少花钱那么简单', link: '/series/see-the-world/station-6-toolbox/36-consumption-downgrade' },
-                { text: '37. 你也能看懂经济新闻了', link: '/series/see-the-world/station-6-toolbox/37-read-economic-news' },
-                { text: '38. 你的经济学工具箱总复习', link: '/series/see-the-world/station-6-toolbox/38-economics-toolbox-review' }
+                { text: '37. 央行降准0.5个百分点你终于知道啥意思了', link: '/series/see-the-world/station-6-toolbox/37-read-economic-news' },
+                { text: '38. 38篇走完你脑子里的世界变了', link: '/series/see-the-world/station-6-toolbox/38-economics-toolbox-review' }
               ]
             }
           ]
