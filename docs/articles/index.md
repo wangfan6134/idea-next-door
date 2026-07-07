@@ -15,7 +15,7 @@
    ├─ 2. 为什么工资涨了还是觉得不够花
    ├─ 3. 周末刷剧的代价，比你想的大多了
    ├─ 4. 第三杯奶茶，真的没那么好喝了
-   └─ 5. 抢不到的票，为什么永远在你付钱之前就没了
+   └─ 5. 演唱会门票凭啥这么贵
 ```
 
 ### 第一站：地基
@@ -24,4 +24,4 @@
 - [2. 为什么工资涨了还是觉得不够花](/series/see-the-world/station-1-foundation/02-why-always-feel-poor)
 - [3. 周末刷剧的代价，比你想的大多了](/series/see-the-world/station-1-foundation/03-opportunity-cost-weekend)
 - [4. 第三杯奶茶，真的没那么好喝了](/series/see-the-world/station-1-foundation/04-marginal-utility-milk-tea)
-- [5. 抢不到的票，为什么永远在你付钱之前就没了](/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket)
+- [5. 演唱会门票凭啥这么贵](/series/see-the-world/station-1-foundation/05-supply-demand-concert-ticket)
